@@ -6,7 +6,7 @@
 
 #### 🚀 &nbsp; I'm a Full-Stack Developer based in Belo Horizonte, Minas Gerais.
 
--  💻 &nbsp; Technologies I'm familiar with: HTML5, CSS3, Typescript and Javascript (React, Next.js, React Native, Node.js), SQL (MySQL mainly), Agile methodologies (Scrum and Sprint)
+-  💻 &nbsp; Technologies I'm familiar with: HTML5, CSS3 (Sass/Scss included), Typescript and Javascript (React, Next.js, React Native, Node.js), SQL (MySQL mainly), Agile methodologies (Scrum and Sprint)
 
 -  🔨 &nbsp; Tools: Visual Studio Code, Git, GitHub, Insomnia, Beekeeper Studio, Figma, Whimsical
 
