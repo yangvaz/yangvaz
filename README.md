@@ -4,7 +4,7 @@
 
 ### 🥑 &nbsp;  Seeking knowledge all the time
 
-#### 🚀 &nbsp; I'm a Full-Stack Developer based in Belo Horizonte, Minas Gerais.
+#### 🚀 &nbsp; I'm a Front-end Developer based in Belo Horizonte, Minas Gerais.
 
 -  💻 &nbsp; Technologies I'm familiar with: HTML5, CSS3 (Sass/Scss included), Typescript and Javascript (React, Next.js, React Native, Node.js), SQL (MySQL mainly), Agile methodologies (Scrum and Sprint)
 
