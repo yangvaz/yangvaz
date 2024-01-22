@@ -12,7 +12,5 @@
 
 -  🔨 &nbsp; Tools: Visual Studio Code, Git, GitHub, Insomnia, Beekeeper Studio, Figma/AdobeXD, Whimsical
 
-🌱 &nbsp; Volunteer at [Mercy for Animals](https://mercyforanimals.org)
-
 
 📚 &nbsp; My book case ( repository soon )
