@@ -6,7 +6,7 @@
 
 #### 🚀 &nbsp; I'm a Frontend Developer based in Belo Horizonte, Minas Gerais.
 
-#### ▶ &nbsp; Working at Localiza
+#### ▶ &nbsp; Working at Lactalis Group
 
 -  💻 &nbsp; Technologies I'm familiar with: HTML5, CSS3 (Sass included), Typescript and Javascript (React, Next.js, React Native, Node.js), SQL (MySQL mainly), Agile methodologies (Scrum and Sprint)
 
