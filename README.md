@@ -4,13 +4,13 @@
 
 ### 🥑 &nbsp;  Seeking knowledge all the time
 
-#### 🚀 &nbsp; I'm a Frontend Developer based in Belo Horizonte, Minas Gerais.
+#### 🚀 &nbsp; I'm a Fullstack Developer (FE Heavy) based in Belo Horizonte, Minas Gerais.
 
 #### ▶ &nbsp; Working at Lactalis Group
 
--  💻 &nbsp; Technologies I'm familiar with: HTML5, CSS3 (Sass included), Typescript and Javascript (React, Next.js, React Native, Node.js), SQL (MySQL mainly), Agile methodologies (Scrum and Sprint)
+-  💻 &nbsp; Technologies I'm familiar with: HTML5, CSS3 (Sass and Styled Components), Typescript and Javascript (React, Next, React Native, Node), SQL (MySQL and Oracle), AWS Services, Agile methodologies (Scrum and Sprint)
 
--  🔨 &nbsp; Tools: Visual Studio Code, Git, GitHub, Insomnia, Beekeeper Studio, Figma/AdobeXD, Whimsical
+-  🔨 &nbsp; Tools: VSCode, Git, GitHub, Insomnia, Beekeeper Studio, Figma/AdobeXD, Whimsical
 
 
 📚 &nbsp; My book case ( repository soon )
